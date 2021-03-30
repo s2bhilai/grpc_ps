@@ -1,0 +1,12 @@
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.deps.json
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.dll
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.pdb
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfoInputs.cache
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfo.cs
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.csproj.CoreCompileInputs.cache
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.Manifest.cache
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.xml
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\scopedcss\bundle\MeterReaderLib.styles.css
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.RazorTargetAssemblyInfo.cache
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.dll
+D:\Tech\gRPC\pluralsight\Grpc_AspNetCore\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.pdb
